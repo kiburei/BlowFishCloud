@@ -1,0 +1,4 @@
+//encrypts at server but decryption only happens on client
+//client should be able to call decryption functions
+//server sends encrypted file to client on request
+//server possibly cloud platform...google drive, sky drive blah blah
