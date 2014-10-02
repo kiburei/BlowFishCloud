@@ -1,7 +1,13 @@
 <!DOCTYPE html>
+<html>
+<head>
 <meta charset="UTF-8"> 
+<title>GroupShare</title>
+</head>
 <script src="scriptfile.js"></script>
 <link rel="stylesheet" href="stylefile.css"> 
 <body>
-hello world
+hello world<br>
+<input type="text" id="your secret works goes here" <br />
 </body>
+</html>
