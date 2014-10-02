@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<meta charset="UTF-8"> 
+<script src="scriptfile.js"></script>
+<link rel="stylesheet" href="stylefile.css"> 
+<body>
+hello world
+</body>
